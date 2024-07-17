@@ -42,4 +42,4 @@ Confusing syntax: Type conversions can have confusing syntax, particularly when 
 Increased complexity: Type conversions can increase the complexity of your code, making it harder to debug and maintain.
 Slower performance: Type conversions can sometimes result in slower performance, particularly when converting data between complex data types, such as between structures and arrays.
 
-thankks
+thanks
