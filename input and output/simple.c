@@ -1,4 +1,5 @@
 // C program to show input and output
+// just for understanding
 
 #include <stdio.h>
 
