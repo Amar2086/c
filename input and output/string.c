@@ -2,17 +2,19 @@
 
 int main()
 {
-    char name[100];
-    char school[100];
+    char name[500];
 
-    printf("please enter your name:");
+
+    printf("please enter your name:\n");
+    printf("plaese enter the name your school:\n");
     scanf("%s ",&name);
+     printf("%s\n",&name);
 
-    printf("plaese enter the name your school");
-    scanf("%[^\n]s",&school);
 
-        printf("%s\n",&name);
-        printf("%s",school);
+    scanf("%[^\n]s",&name);
 
-    return 0;    
+
+        printf("%s",name);
+
+    return 0;
 }
