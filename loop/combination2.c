@@ -9,7 +9,7 @@ int main()
     {
         for(j=0;j<=sec;j++)
         {
-            for (k = 0; i <= third; k++)
+            for (k = 0; k<= third; k++)
             {
                 /* code */
                 printf("%d%d%d",i,j,k);
